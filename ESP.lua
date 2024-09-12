@@ -130,7 +130,6 @@ else
 	GetRenderProperty, SetRenderProperty = __index, getmetatable(TemporaryDrawing).__newindex -- Must use the "__OBJECT" element for either of these functions.
 	TemporaryDrawing.Remove(TemporaryDrawing)
 
-	warn("EXUNYS_ESP > Your exploit does not support this module's optimizations! The visuals might be laggy and decrease performance.")
 end
 
 --// Variables
