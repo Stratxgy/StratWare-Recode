@@ -158,7 +158,7 @@ getgenv().ExunysDeveloperESP = {
 	Settings = {
 		Enabled = true,
 		PartsOnly = false,
-		TeamCheck = false,
+		TeamCheck = true,
 		AliveCheck = true,
 		LoadConfigOnLaunch = true,
 		EnableTeamColors = false,
@@ -182,15 +182,15 @@ getgenv().ExunysDeveloperESP = {
 			OutlineColor = Color3fromRGB(0, 0, 0),
 			Outline = true,
 
-			DisplayDistance = true,
+			DisplayDistance = false,
 			DisplayHealth = false,
 			DisplayName = false,
 			DisplayDisplayName = true,
-			DisplayTool = true
+			DisplayTool = false
 		},
 
 		Tracer = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 			Position = 1, -- 1 = Bottom; 2 = Center; 3 = Mouse
@@ -247,7 +247,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Crosshair = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 			TStyled = false,
