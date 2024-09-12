@@ -1,6 +1,6 @@
 # 🔥 StratWare-Recode 🔥
 
-Script:
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/StratWare-Recode/main/stratware%20recode.lua"))()
 
 
