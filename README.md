@@ -1,6 +1,6 @@
 # 🔥 StratWare-Recode 🔥
 
-
+(stratware uses:
 ![Visitor Count](https://profile-counter.glitch.me/{Stratxgy}/count.svg)
 
 
