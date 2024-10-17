@@ -7,7 +7,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/StratWare-Recode/refs/heads/main/stratware%20recode.lua"))()
 
 
-Recode of {https://github.com/Stratxgy/StratWare}(StratWare)
+Recode of [https://github.com/Stratxgy/StratWare](StratWare)
 
 
 
