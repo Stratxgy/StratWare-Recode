@@ -1,15 +1,14 @@
 # 🔥 StratWare-Recode 🔥
 
 (stratware uses:
-![Visitor Count](https://profile-counter.glitch.me/{Stratxgy}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Stratxgy}/count.svg)
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/StratWare-Recode/main/stratware%20recode.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/StratWare-Recode/refs/heads/main/stratware%20recode.lua"))()
 
 
-Recode of StratWare https://github.com/Stratxgy/StratWare
+Recode of {https://github.com/Stratxgy/StratWare}(StratWare)
 
-Now using Orion Lib
 
 
 Youtube @ https://youtube.com/@stratxgy.?si=oIGY92ynTPIMels1
